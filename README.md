@@ -1,4 +1,4 @@
-# super_easy
+# Flutter UI Challenge - Delivery App Super Easy
 
 A new Flutter project.
 
